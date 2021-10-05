@@ -15,13 +15,25 @@
 ###### 2021_3B
 
 2021_3B **2021_3B** *2021_3B*  🥇🥈🥉
+***
+### 多行區塊已補上
 
+
+Emphasis, aka *italics*, with *asterisks* or *underscores*.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with asterisks and underscores.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
+
+***
 - [ ] todo list
 - [X] done 1
 
-python
+```python
 print("hello world")
-
+```
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
